@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Monte Castelo"},
+                  "AlbumTitle": {"S": "As Quatro Estações"},
+                  "SongYear": {"S": "1989"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Faroeste Caboclo"},
+                  "AlbumTitle": {"S": "Que pais é este"},
+                  "SongYear": {"S": "1987"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legião Urbana},
+                  "SongTitle": {"S": "O Livro dos dias"},
+                  "AlbumTitle": {"S": "A Tempestade ou o Livro dos dias"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        }
+      ]
+}
